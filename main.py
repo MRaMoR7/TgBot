@@ -3,7 +3,7 @@ import sqlite3
 
 from telebot import types
 
-botTimeWeb = telebot.TeleBot('7786042242:AAEMzh7J5aq2Gik8T7R2Oy57UsGJ1JUW664')
+botTimeWeb = telebot.TeleBot('Token')
 
 
 db_path = "database.db"
